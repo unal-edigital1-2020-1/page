@@ -135,6 +135,10 @@ WP  | semana | deadline  | Tema | Documentación| Repositorio
 03  | semana 4 |  | Procesamiento | [link](./docs/WP03.md) |  [WP03]() 
 
 
+## resultados 2020-1 proyectos 
+
+* [grupo 1](https://github.com/unal-edigital1-2020-1/wp2-simulacion-captura-grupo-03/tree/master/docs)
+* [grupo 2](https://github.com/unal-edigital1-2020-1/wp2-simulacion-captura-grupo-04/tree/master/docs)
 
 ## Bibliografía
 * Daniel D. Gajski. Principles of Digital Design. Prentice Hall, 1997.
