@@ -125,20 +125,30 @@ Semana 5 | multiplicador| [link](./labs/lab04.md) | | |
 
 
 ## Desarrollo proyecto
-A continuación se presenta cada actividad a realizar, el plan de trabajo del proyecto de cada semana se encuentra en el link de documentación y el link de trabajo se encuentra en la columna  repositorio.
+A continuación se presenta cada actividad a realizar, el plan de trabajo del proyecto de cada semana se encuentra en el link de documentación y el link de trabajo se encuentra en la columna  repositorio. recuerde que debe trabajar sobre "IEEE Standard for Verilog" y las entregas parciales se hace siguiendo el estandar  "ECSS‐Q‐60‐02A".
 
 
 WP  | semana | deadline  | Tema | Documentación| Repositorio 
 --  | --     | --        | --   | --          | --  
-01| semana 1 | 18 de junio | Buffer de memoria | [link](./docs/WP01.md) | [WP01](https://classroom.github.com/g/t-U9fDWO) .
+01| semana 1 | | Buffer de memoria | [link](./docs/WP01.md) | [WP01](https://classroom.github.com/g/t-U9fDWO) .
 02| semana 2 /semana 3 |   | Captura de datos | [link](./docs/WP02.md) |  [WP02](https://classroom.github.com/g/fGrpRaaz)
 03  | semana 4 |  | Procesamiento | [link](./docs/WP03.md) |  [WP03]() 
 
 
 ## resultados 2020-1 proyectos 
 
-* [grupo 1](https://github.com/unal-edigital1-2020-1/wp2-simulacion-captura-grupo-03/tree/master/docs)
-* [grupo 2](https://github.com/unal-edigital1-2020-1/wp2-simulacion-captura-grupo-04/tree/master/docs)
+### primera entrega
+* [G01](https://github.com/unal-edigital1-2020-1/wp01-ram-grupo-01/tree/master/docs)
+* [G02](https://github.com/unal-edigital1-2020-1/wp01-ram-grupo-02/tree/master/docs)
+* [G03](https://github.com/unal-edigital1-2020-1/wp01-ram-grupo-05/tree/master/docs) ***
+* [G04](https://github.com/unal-edigital1-2020-1/wp01-ram-grupo-04)
+* [G05](https://github.com/unal-edigital1-2020-1/wp01-ram-grupo-05/tree/master/docs)
+### segunda entrega 
+* [G03][https://github.com/unal-edigital1-2020-1/wp2-simulacion-captura-grupo-03/tree/master/docs]
+* [G04](https://github.com/unal-edigital1-2020-1/wp2-simulacion-captura-grupo-04/tree/master/docs)
+### entrega final
+* [grupo 1](https://github.com/unal-edigital1-2020-1/wp2-simulacion-captura-grupo-03/tree/master/docs) [repositorio](https://github.com/unal-edigital1-2020-1/wp2-simulacion-captura-grupo-03) 
+* [grupo 2](https://github.com/unal-edigital1-2020-1/wp2-simulacion-captura-grupo-04/tree/master/docs) [repositorio](https://github.com/unal-edigital1-2020-1/wp2-simulacion-captura-grupo-04)
 
 ## Bibliografía
 * Daniel D. Gajski. Principles of Digital Design. Prentice Hall, 1997.
